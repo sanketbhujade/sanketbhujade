@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketbhujade&label=Profile%20views&color=0e75b6&style=flat" alt="sanketbhujade" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketbhujade" alt="sanketbhujade" /></a> </p>
-
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
 
 - 💬 Ask me about **DATA STRUCTURES AND ALGORITHM,LINUX,SYSTEM DESIGNING,BLOCKCHAIN**
@@ -21,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketbhujade&show_icons=true&locale=en&layout=compact" alt="sanketbhujade" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketbhujade&show_icons=true&locale=en" alt="sanketbhujade" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketbhujade&" alt="sanketbhujade" /></p>
