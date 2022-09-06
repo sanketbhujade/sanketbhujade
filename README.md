@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm sanket</h1>
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<p align="left"> 
+ <b> Visitor count </b><br>
+  <img src="https://profile-counter.glitch.me/sanketbhujade/count.svg" width="250" height="40" />
+</p>
 
-<h3 align="center">A passionate software developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketbhujade&label=Profile%20views&color=0e75b6&style=flat" alt="sanketbhujade" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketbhujade&label=Profile%20views&color=0e75b6&style=flat"width="25" height="25" alt="sanketbhujade" /> </p>-->
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
 
