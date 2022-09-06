@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sanket</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<h1 align="center"><p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketbhujade&label=Profile%20views&color=0e75b6&style=flat" alt="sanketbhujade" /> </p></h1>
+<h1 align="center"><p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketbhujade&label=Profile%30views&color=0e75b6&style=flat" alt="sanketbhujade" /> </p></h1>
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
 
